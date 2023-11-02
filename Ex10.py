@@ -7,5 +7,4 @@ elif (valor <0):
 elif (valor>0):
     print("O valor é positivo \n")
 
-print("Olá sr")
 
